@@ -4,6 +4,13 @@ Udemy cousre [JavaScript Algorithms and Data Structures Masterclass](https://www
 Notes:
 
 - 2. Big O notation
+    - Objectives 
+        - Motivate the need for something like Big O Notation
+        - Describe what Big O Notation is
+        - Simplify Big O Expressions
+        - Define "time complexity" and "space complexity"
+        - Evaluate the time complexity and space complexity of different algorithms using Big O Notation
+        - Describe what a logarithm is
     - Big O Notation is a way of comparing algorithms. It compares them by calculating how much memory is needed and how much time it takes to complete. The Big O Notation is often used in identifying how complex a problem is, also known as the problem's complexity class. [wikipedia](https://simple.wikipedia.org/wiki/Big_O_notation#:~:text=From%20Wikipedia%2C%20the%20free%20encyclopedia,as%20the%20problem's%20complexity%20class.)
     - We say that an algorithm is O(f(n)) if the number of simple operatioins the computer has to do is eventually less than a constant times f(n), as n increases.
         - Explanation of (f(n) = n) = a function with an input of `n` has an `=n` output.
